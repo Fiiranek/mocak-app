@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986997097558",
+    "firebase_url": "https://mocak-8023e.firebaseio.com",
+    "project_id": "mocak-8023e",
+    "storage_bucket": "mocak-8023e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986997097558:android:8883fc1f86ce039be167f7",
+        "android_client_info": {
+          "package_name": "com.example.mocak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986997097558-4aijgsa0m5fm9c27gsn4t5djkejd8r4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDY9PgPHx__pzzpOEEHICRD3UzHr2_nUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986997097558-4aijgsa0m5fm9c27gsn4t5djkejd8r4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
