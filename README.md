@@ -7,11 +7,11 @@ https://drive.google.com/file/d/1h0yZ0h3RHx9Ae-V3F7d175jIp2-rFQEG/view?usp=shari
 This simple project was made to help Mocak IT service workers to handle IT issues.
  
 ## Screenshots
-<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/1.png" width="400px"/>
-<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/2.png"/>
-<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/3.png"/>
-<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/4.png"/>
-<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/5.png"/>
+<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/1.png" width="300px"/>
+<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/2.png" width="300px"/>
+<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/3.png" width="300px"/>
+<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/4.png" width="300px"/>
+<img src="https://github.com/Fiiranek/mocak-app/blob/master/img/5.png" width="300px"/>
 
 ## Tech/framework used
 <b>Built with</b>
